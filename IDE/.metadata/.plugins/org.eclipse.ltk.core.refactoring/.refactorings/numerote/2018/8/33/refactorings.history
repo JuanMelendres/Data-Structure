@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 5 elements to &apos;numerote/src&apos;&#x0A;- Original project: &apos;numerote&apos;&#x0A;- Destination element: &apos;numerote/src&apos;&#x0A;- Original elements:&#x0A;     BigNumber.java&#x0A;     InvalidBigNumberException.java&#x0A;     Main.java&#x0A;     ArithmeticException.java&#x0A;     BigNumberOverflowException.java&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="BigNumber.java" element2="InvalidBigNumberException.java" element3="Main.java" element4="ArithmeticException.java" element5="BigNumberOverflowException.java" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1534266614720" units="0" version="1.0"/>
+</session>

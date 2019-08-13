@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/juanantoniomelendresvilla/Desktop/Estructura de Datos/IDE/.metadata/.plugins/org.eclipse.jdt.core
+3523099983.index
+2610038639.index
+71504080.index
+3470325275.index
